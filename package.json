@@ -4,6 +4,7 @@
   "description": "Manage Node.js projects and npm packages using package.json",
   "keywords": [ "npm", "node.js", "packages", "freecodecamp" ],
   "license": "MIT",
+  "version": "1.5.1",
   "dependencies": {
     "express": "^4.14.0"
   },
